@@ -1,1 +1,1 @@
-function gazo688(){document.getElementById('who688').innerHTML='<img src="./image/栗1.png 栗2.png" alt="オン">';}
+function gazo688(){document.getElementById('who688').innerHTML='<img src="./image/https://github.com/tmma073/10-1/blob/main/image/%E6%A0%97%EF%BC%91.png " alt="オン">';}
