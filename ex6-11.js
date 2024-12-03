@@ -1,2 +1,2 @@
-function imgchange3(){document.getElementById('logo').src ='./image/masukotto_jokoma02.webp';}
-function imgchange4(){document.getElementById('logo').src ='./image/OIP.jpg';}
+function imgchange3(){document.getElementById('Logo').src ='./image/11483cbadd346c4eb5c3f49e9e2fc682.webp';}
+function imgchange4(){document.getElementById('Logo').src ='./image/OIP.jpg';}
