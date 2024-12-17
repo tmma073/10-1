@@ -1,5 +1,5 @@
 function toshi1() {
-var x = document.getElementById('toshi1').value;
+var x = document.getElementById('toshi').value;
 var y;
 if (x % 4 === 0) {
 if (x % 100 === 0) {
