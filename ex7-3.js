@@ -11,5 +11,5 @@ return;}
 var bmi = weight / ((height / 100) * (height / 100));
 
 //結果の表示
-alert("BMIは" + bmi.toFixed(2) + "です");
+alert("BMIは" + bmi.toFixed(2) + "です。");
 }
