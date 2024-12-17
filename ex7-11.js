@@ -1,2 +1,2 @@
 function toshi1() {
-var 
+var x = document.getElementById('toshi1').value;
