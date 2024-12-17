@@ -14,5 +14,5 @@ resultText = '肥満';
 }
 }
 
-alert('BMIは' + bmi.toFixed(2) + ' - ' + resultText);
+alert('BMIは' + bmi.toFixed(2) + ' - ' + resultText + 'です。');
 }
